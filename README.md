@@ -27,6 +27,10 @@ Keymap Manager 是一个 Blender 5.3 扩展，用于在偏好设置中只显示�
 4. 点击安装按钮并选择下载的 ZIP。
 5. 启用 **Keymap Manager**。
 
+当前版本也可以直接从仓库下载：
+
+`dist/keymap_manager-0.1.1.zip`
+
 ### 从源码构建
 
 把 Blender 的可执行文件路径替换为你的实际安装位置：
@@ -61,6 +65,8 @@ Keymap-Manager/
 ├── PUBLISHING.md
 ├── CHANGELOG.md
 ├── LICENSE
+├── dist/
+│   └── keymap_manager-0.1.1.zip
 └── docs/
     └── keymap-manager.png
 ```
